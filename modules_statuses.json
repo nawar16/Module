@@ -1,4 +1,6 @@
 {
     "About": true,
-    "Contact": true
+    "Contact": true,
+    "Student": true,
+    "Exam": true
 }
